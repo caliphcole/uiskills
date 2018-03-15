@@ -1,0 +1,48 @@
+.navbar .navbar-nav{
+    list-style: none;
+    margin:0;
+    padding:0;
+    float:right;
+}
+
+
+.bg-button-gradient{
+    background-color: #ffffff;
+}
+
+.nav-z-index{
+    z-index:2;
+}
+
+.video-z-index{
+    position:absolute;
+    top:0;
+    width:100%;
+    height:100%;
+    z-index:-100;
+}
+iframe{
+    width:100%;
+    height:100%;
+}
+
+.row{
+  margin-bottom: 10px;   
+}
+
+h1{
+    font-size: 100px;
+}
+.btn-hollow{
+    background-color: transparent;
+}
+.btn-white{
+    border-color: white;
+}
+.btn-blue{
+    border-color: blue;
+}
+
+.seach-box{
+    z-index: 100
+}
